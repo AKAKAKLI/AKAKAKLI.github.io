@@ -33,7 +33,7 @@
       <link href="/2020/05/05/welcome/"/>
       <url>/2020/05/05/welcome/</url>
       
-        <content type="html"><![CDATA[<p>欢迎你来到这个站点！</p><h3 id="主站"><a href="#主站" class="headerlink" title="主站"></a>主站</h3><p><a href="https://blog.yokimo.net/" target="_blank">Yokiの摸鱼小站</a></p>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>欢迎你来到这个站点！</p><h3 id="主站"><a href="#主站" class="headerlink" title="主站"></a>主站</h3><p><a href="https://blog.yokimo.net/" target="_blank">Yokiの摸鱼小站</a></p>]]></content>
       
       
       <categories>
